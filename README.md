@@ -1,5 +1,5 @@
 # My Portfolio Repo
-This Repository contains the work for the Proffesional Development and Games Industry Employability.
+This Repository contains the work for the Professional Development and Games Industry Employability.
 
 Some of the items in this repository are:
 * Images folder for my Website
